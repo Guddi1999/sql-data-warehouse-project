@@ -5,15 +5,15 @@ This project will demonstrate the comprehensive data warehousing and Analytics S
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Specifications**
-
-Data Source - Gathering the information from multiple Sources.
+------------------------------------------------------------------------------------------------------------------------------------
+* *Data Source - Gathering the information from multiple Sources.
 Data Accuracy: Ensure data is clean, consistent, and free from errors.
 Timely Data Refresh: Reports should reflect the latest available data with regular updates.
 User-Friendly Layout: Design reports to be clear, intuitive, and easy to navigate.
 Integration Capability: Reports should pull data from multiple sources within the data warehouse.
 Mobile Accessibility: Reports should be accessible and responsive on multiple devices.
 Export Options: Enable users to export reports in various formats (PDF, Excel, CSV).
-Compliance Alignment: Ensure reporting meets relevant industry standards and regulations.
+Compliance Alignment: Ensure reporting meets relevant industry standards and regulations.**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Analytics and Reporting - Data Analysis**
